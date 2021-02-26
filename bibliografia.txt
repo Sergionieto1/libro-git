@@ -1,0 +1,2 @@
+-Chacon, S. and Straub ,B Pro Git. apress.
+-Loeliger, J and McCullough,M.versión control whith Git. O'Reilly.
